@@ -1,0 +1,9 @@
+vendor/
+.env
+.env.local
+*.pdf
+!sample-*.pdf.txt
+/tests/downloads/
+node_modules/
+composer.lock
+.DS_Store
